@@ -1,0 +1,5 @@
+{
+  "name": "Physics Playground 3D",
+  "description": "A 3D interactive physics sandbox where you can spawn shapes, pick them up, and throw them around using a realistic physics engine.",
+  "requestFramePermissions": []
+}
